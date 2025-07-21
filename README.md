@@ -1,4 +1,4 @@
-|[logo.](logo.)
+![logo.](logo.)
 # Nombre de mi empresa: Playful
 slogan: 
 
