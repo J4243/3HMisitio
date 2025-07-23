@@ -1,12 +1,11 @@
-![logo.](logo.)
-# Nombre de mi empresa: Playful
-slogan: 
+![logo](logo.)
+# Nombre de mi empresa: Entre Palabras
+Slogan: Palabras que encantan.
 
 ## Tema
-Sitio web ambientado en 
+Libros de fantasía oscura, magia y misterio.
 
 ## Descripción
-Empresa dedicada a
+Aquí no vendemos solo libros, sino encantamientos encuadernados: historias de fantasía oscura, secretos susurrados, mitos antiguos y páginas que respiran hechizos.
 
-### Autor: (3H) Villanueva Javier
-
+Cada obra es elegida como si fuera un grimorio olvidado, destinada a lectores que buscan lo que no se encuentra a simple vista.
